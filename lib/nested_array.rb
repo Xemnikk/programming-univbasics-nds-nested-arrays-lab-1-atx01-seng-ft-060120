@@ -24,10 +24,17 @@ def assembled_matrix
   
   produce_storage = [
     [conventional = [
-      
+      "Grapefruit",
+      "Pineapple",
+      "Oranges",
+      "Watermelon",
+      "Eggplant"
       ]
       ],
-    [ORGANIC_PRODUCE]
+    [organic = [
+      
+      ]
+      ]
     ]
 end
 
