@@ -32,7 +32,11 @@ def assembled_matrix
       ]
       ],
     [organic = [
-      
+       "Strawberries",
+       "Potatoes",
+       "Grapes",
+       "Avocadoes",
+       "Asparagus"
       ]
       ]
     ]
